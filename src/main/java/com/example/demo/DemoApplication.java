@@ -30,7 +30,7 @@ public class DemoApplication {
     }
 
     public static void main(String[] args) {
-        logger.info("应用启动----------------------------");
+        logger.info("应用启动------------------------------");
         SpringApplication.run(DemoApplication.class, args);
     }
 }
